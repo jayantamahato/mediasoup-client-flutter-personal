@@ -786,7 +786,7 @@ class RtcpParameters extends RTCRTCPParameters {
 
   RtcpParameters({
     this.mux,
-    String cname = '',
+    String? cname = '',
     bool reducedSize = true,
   }) : super(cname, reducedSize);
 

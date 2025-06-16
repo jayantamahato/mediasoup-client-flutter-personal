@@ -11,7 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_webrtc: ^0.9.39
+  #flutter_webrtc: ^0.9.39
+  flutter_webrtc: ^0.14.1
   events2: ^1.0.0
   sdp_transform: ^0.3.2
   collection: ^1.16.0
